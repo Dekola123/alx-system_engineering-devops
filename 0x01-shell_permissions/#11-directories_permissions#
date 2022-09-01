@@ -1,2 +1,8 @@
 #!/bin/bash
-chmod 777 
+case no in
+    no])
+	   jsjhshhhs
+	   ;;
+       esac
+
+       chmod ugo+x hello
