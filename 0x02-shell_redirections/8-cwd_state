@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_cmd_content.txt
+ls -la | cat ls_cmd_content
