@@ -1,0 +1,1 @@
+This folder contains tips and solutions involving understanding the shell variables expansions project
